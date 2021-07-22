@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Template">
+    <jcr:content
+        cq:lastModified="{Date}2021-07-17T16:56:46.862+05:30"
+        cq:lastModifiedBy="admin"
+        cq:templateType="/conf/myaemproject/settings/wcm/template-types/FirstEditableTemplateConfiguration"
+        jcr:description="Hai, Iam from editable template"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="FirstEditableTemplate"
+        status="enabled"/>
+</jcr:root>
